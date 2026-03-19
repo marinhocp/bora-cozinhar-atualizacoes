@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
-  "buildNumber": 14,
-  "releaseNotes": "Testar para erros",
-  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.2%2B14/bora-cozinhar-1.0.2+14.apk",
+  "buildNumber": 15,
+  "releaseNotes": "testando a atualizacao e notificacoes",
+  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.2%2B15/Bora-cozinhar1.0.2+15.apk",
   "forceUpdate": false
 }
