@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "buildNumber": 16,
-  "releaseNotes": "correcao na adicao dos ingredientes",
-  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.2%2B16/app-release.apk",
+  "version": "1.0.3",
+  "buildNumber": 01,
+  "releaseNotes": "correcoes ma lista de compras e na notificacao do aceite de seguidores",
+  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.3%2B01/Bora-cozinhar1.0.3+01.apk",
   "forceUpdate": false
 }
