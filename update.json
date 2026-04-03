@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
-  "buildNumber": 1,
-  "releaseNotes": "protecao das credenciais",
-  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.4%2B1/Bora-cozinhar1.0.4+1.apk",
+  "buildNumber": 2,
+  "releaseNotes": "Adicionado o sistema de notificação no email e corrigido algumas vulnerabilidades no banco, além de ajustar as notificações no email e no app.",
+  "downloadUrl": "https://github.com/marinhocp/bora-cozinhar-atualizacoes/releases/download/1.0.4%2B2/Bora-cozinhar1.0.4+2.apk",
   "forceUpdate": false
 }
